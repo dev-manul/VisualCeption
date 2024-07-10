@@ -1,7 +1,7 @@
 {
-  "name": "codeception/module-visualception",
+  "name": "dev-manul/module-visualception",
   "description": "Visual regression tests for Codeception",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "type": "library",
   "homepage": "https://github.com/Codeception/VisualCeption",
   "license": "MIT",
